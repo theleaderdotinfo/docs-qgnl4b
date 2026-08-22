@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-bpf4b3.evostoto99mxn.lat/sitemap.xml
